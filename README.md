@@ -1,10 +1,5 @@
 # Jobify
 
-https://jobify-v2mq.onrender.com/landing
-
-
-# Jobify
-
 <div id="top"></div>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -25,10 +20,9 @@ https://jobify-v2mq.onrender.com/landing
 
   <p align="center">
   <a href="https://jobify-v2mq.onrender.com/landing">View Demo</a>
-    ·
-    <a href="https://github.com/abdrahmansoltan/jobify/issues">Report Bug</a>
   </p>
 </div>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -58,10 +52,14 @@ https://jobify-v2mq.onrender.com/landing
 ## About The Project
 
 MERN Stack Application for tracking Job Search Process
+<img width="1440" alt="Screenshot 2023-02-11 at 2 58 56 PM" src="https://user-images.githubusercontent.com/87461631/218250961-33192f2f-7a79-4790-98f9-b1388ed3ec5a.png">
+<img width="1440" alt="Screenshot 2023-02-11 at 3 01 14 PM" src="https://user-images.githubusercontent.com/87461631/218251066-2ff7934c-9655-4864-b79f-a56a777457b0.png">
+<img width="1440" alt="Screenshot 2023-02-11 at 3 04 55 PM" src="https://user-images.githubusercontent.com/87461631/218251262-b47678fe-cbea-4e70-ada6-1465a50a2429.png">
+<img width="1440" alt="Screenshot 2023-02-11 at 3 08 30 PM" src="https://user-images.githubusercontent.com/87461631/218251290-0296d3f9-91c1-494b-9ad8-2ed71ccffc85.png">
 
-![Preview](./client/src/assets/images/preview.PNG)
-![Preview](./client/src/assets/images/preview2.PNG)
-![Preview](./client/src/assets/images/preview3.PNG)
+
+
+
 
 ### Features
 
@@ -105,6 +103,7 @@ This project require some perquisites and dependencies to be installed, you can 
 ---
 
 ### Ports and EndPoints
+
 
 #### Ports
 
