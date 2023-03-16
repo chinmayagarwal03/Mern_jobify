@@ -52,7 +52,8 @@
 ## About The Project
 
 MERN Stack Application for tracking Job Search Process
-<img width="1440" alt="Screenshot 2023-02-11 at 2 58 56 PM" src="https://user-images.githubusercontent.com/87461631/218250961-33192f2f-7a79-4790-98f9-b1388ed3ec5a.png">
+<img width="1193" alt="Screenshot 2023-03-16 at 9 42 03 AM" src="https://user-images.githubusercontent.com/87461631/225512477-2663d30b-be8a-4af9-ab1e-e94208a18737.png">
+
 <img width="1440" alt="Screenshot 2023-02-11 at 3 01 14 PM" src="https://user-images.githubusercontent.com/87461631/218251066-2ff7934c-9655-4864-b79f-a56a777457b0.png">
 <img width="1440" alt="Screenshot 2023-02-11 at 3 04 55 PM" src="https://user-images.githubusercontent.com/87461631/218251262-b47678fe-cbea-4e70-ada6-1465a50a2429.png">
 <img width="1440" alt="Screenshot 2023-02-11 at 3 10 28 PM" src="https://user-images.githubusercontent.com/87461631/218251360-d1ed5713-00e5-49df-bb14-11eba967d02e.png">
