@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
 <br>
-<a href="https://jobify-abdelrahmansoltan.herokuapp.com/">
+<a href="">
     <img src="./client/src/assets/images/logo.svg" alt="Logo" height="50" >
   </a>
 <br>
